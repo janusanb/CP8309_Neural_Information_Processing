@@ -16,4 +16,4 @@ The website linking to the notebook, part 1: https://www.kaggle.com/ejlok1/audio
 To run this code, the RAVDESS databse and the VoxCeleb1 database are required:
 RAVDESS: https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 VoxCeleb1: http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html
-* Note: The files could not be included in the submission as it was too large.
+* Note: The datasets could not be included as it was too large.
